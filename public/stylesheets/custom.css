@@ -27,6 +27,7 @@ body {
   background-color: black;
   position: relative;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .table>tbody>tr>th, .table>tbody>tr>td {
